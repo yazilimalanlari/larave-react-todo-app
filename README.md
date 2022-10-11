@@ -4,6 +4,7 @@
 ```shellscript
 cd server
 php composer.phar update
+php artisan serve
 ```
 
 ## Run React
