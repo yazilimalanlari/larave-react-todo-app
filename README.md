@@ -9,7 +9,7 @@ php artisan serve
 
 ## Run React
 ```shellscript
-cd server
+cd client
 npm i
 npm start
 ```
